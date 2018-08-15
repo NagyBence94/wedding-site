@@ -1,0 +1,11 @@
+﻿Megjegyzések
+
+A dupla konténer divek (wrappers) a fejlécben akkor lesz hasznos, amikor egyszerre próbálod középre rendezni a tartalmat és rakni mögé egy sötétebb, átlátszó hátteret (overlay).
+
+A .blurb div-ekkel tudod majd létrehozni az asztali verzió három oszlopos elrendezését. Ugyanez a funkciója a .question-group classoknak.
+
+A wrapper (konténer) a Program szekcióban a középre igazításhoz kell majd az asztali verzióban.
+
+Figyeld meg, hogy végig szemantikus tageket használtunk és a classok elnevezése nem a megjelenésre, hanem a szerepükre utal.
+
+Pár href attribútumban találkozhatsz a még ismeretlen tel: kiegészítéssel. Ez hasonlóan működik, mint a mailto:. Ha a felhasználó rákattint / megérinti, a böngésző megpróbálja tárcsázni az adott számot. Mobilokon kifejezetten hasznos.
