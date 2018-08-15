@@ -1,0 +1,7 @@
+﻿Megjegyzések
+
+A background tulajdonságban van egy új rész: 70% center/cover. Ezt a rövidítést (shorthand) akkor használjuk, amikor egyszerre szeretnénk megadni a háttér méretét és pozícióját. Az első része (70% center) adja meg a kép pozícióját. Jelen esetben ez kissé balra mozgatja a fotót az X tengelyen, hogy a menyasszony feje ne lógjon ki a képernyőről. Ha szeretnéd látni a hatását, töröld ki átmenetileg, és nézd meg az oldalt.
+
+A display: table; megoldás ismerős kell hogy legyen a gyakori komponenseket bemutató projektünkből.
+
+Az aláhúzáshoz és dekoratív vonalakhoz pszeudoelemeket (pseudo-elements) használtunk, hogy a HTML-ben tényleg csak a tartalomhoz, struktúrához tartozó információ legyen.

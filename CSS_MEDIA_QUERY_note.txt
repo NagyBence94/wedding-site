@@ -1,0 +1,7 @@
+﻿Megjegyzések
+
+Mi az inline-block módszert használtuk a több oszlopos elrendezéshez.
+
+Az elválasztókat egy egyszerű display: none; CSS szabállyal el tudod rejteni.
+
+A vertical-align: top; szabály szépen egymáshoz igazítja a "Gyakori kérdések" rész oszlopait.

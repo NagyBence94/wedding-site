@@ -1,0 +1,5 @@
+﻿Megjegyzések
+
+A 100vw érték felülírja a 95%-os szélességet az általános stílusokból. Így ér majd a section "faltól falig".
+
+Az átlátszó fekete háttér az alatta lévő háttérképpel együtt egy kellemes, szürke papír effektust hoz létre, ami szépen illeszkedik a készülő designunkba.

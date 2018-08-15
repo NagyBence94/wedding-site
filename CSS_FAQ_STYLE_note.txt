@@ -1,0 +1,7 @@
+﻿Megjegyzések
+
+Itt felül kell írnod a paragrafusok text-align tulajdonságát, mivel az alapértelmezett érték a center.
+
+Ismét pszeudoelem hozza létre az elválasztókat.
+
+Itt jönnek jól a .question és .answer classaink. Az első összehúzza az összetartozó kérdés-válasz párokat, míg a második elválasztja őket a többi párostól.

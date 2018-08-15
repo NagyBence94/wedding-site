@@ -1,0 +1,7 @@
+﻿Megjegyzések
+
+Figyeld meg, hogy itt is rem egységeket használtunk a tipográfia méreteihez. Így, ha a felhasználó megváltoztatja az alapértelmezett betűméretet, az oldalunk szépen fog skálázódni.
+
+A section elemeket középre igazítottuk és mindegyik kapott egy 95%-os szélességet. Ez megakadályozza, hogy a tartalom bárhol "hozzáérjen" a képernyő széléhez.
+
+A háttérkép merített papír benyomását kelti, ami jól illik egy esküvői weblap hangulatához. A szép, kurzív betűk ugyanezt a papír hatást erősítik.
